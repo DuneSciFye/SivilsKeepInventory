@@ -1,0 +1,4 @@
+name: SivilsKeepInventory
+version: '${version}'
+main: net.sivils.sivilskeepinventory.SivilsKeepInventory
+api-version: '1.21'
