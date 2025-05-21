@@ -11,6 +11,7 @@ public class DeathListener implements Listener {
         e.setShouldDropExperience(false);
         e.setKeepInventory(true);
         e.setKeepLevel(true);
+        e.getDrops().clear();
     }
 
 }
